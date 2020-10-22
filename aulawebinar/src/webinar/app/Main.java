@@ -20,6 +20,7 @@ public class Main {
 
 		EntityManager em = JPAUtil.getEntityManagerFactory().createEntityManager();
 
+	    int teste;
 		/*
 		 * Endereco endAluno1 = new Endereco(); endAluno1.setRua("Rua Jose");
 		 * endAluno1.setCidade("Alfenas");
